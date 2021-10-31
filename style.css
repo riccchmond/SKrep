@@ -1,0 +1,29 @@
+body{
+	background : url(godzillavskong.jpg) no-repeat;	
+	background-size : cover;
+}
+
+#mainheader{
+	font-size : 20px;
+	background : none;
+	text-align : center;
+}
+
+#movies{
+	 outline : narrower;
+	 padding : 8px;
+	 font-family : times new roman;
+}
+
+#onlyfooter{
+	font-size : 20px;
+	background: none;
+	text-align : center;
+}
+
+
+#copyrights{
+	text-align : center;
+	font-size : 20px;
+}
+	
